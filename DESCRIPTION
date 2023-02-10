@@ -1,0 +1,10 @@
+Package: LLT
+Type: Package
+Title: Linear Law-based Feature Space Transformation
+Version: 0.1.0
+Author: Marcell T. Kurbucz, Péter Pósfay, Antal Jakovác
+Maintainer: Marcell T. Kurbucz <kurbucz.marcell@wigner.hu>
+Description: The LLT package implements the Linear Law-based Feature Space Transformation (LLT) algorithm, which aims to facilitate uni- and multivariate time series classification tasks.
+License: GNU General Public License v3.0
+Encoding: UTF-8
+LazyData: true
