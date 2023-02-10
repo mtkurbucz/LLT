@@ -1,7 +1,7 @@
+<hr>
 # *LLT* R package
 Linear Law-based Feature Space Transformation
-
-<hr><hr>
+<hr>
 
 ## Description
 The LLT package implements the Linear Law-based Feature Space Transformation (LLT) algorithm, which aims to facilitate uni- and multivariate time series classification tasks.
