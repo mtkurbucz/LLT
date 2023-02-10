@@ -42,8 +42,8 @@ result <- LLT::testTrans(path,train_test,train_law)
 
 Please reference as:
 <ul>
-  <li>Kurbucz, M. T., Pósfay, P., & Jakovác, A. (2022). Facilitating time series classification by linear law-based feature space transformation. *Scientific Reports*, 12(1), 18026.</li>
-  <li>Jakovác, A., Kurbucz, M. T., & Pósfay, P. (2022). Reconstruction of observed mechanical motions with artificial intelligence tools. *New Journal of Physics*, 24(7), 073021.</li>
+  <li>Kurbucz, M. T., Pósfay, P., & Jakovác, A. (2022). Facilitating time series classification by linear law-based feature space transformation. <i>Scientific Reports</i>, 12(1), 18026.</li>
+  <li>Jakovác, A., Kurbucz, M. T., & Pósfay, P. (2022). Reconstruction of observed mechanical motions with artificial intelligence tools. <i>New Journal of Physics</i>, 24(7), 073021.</li>
 </ul>
 
 <hr>
