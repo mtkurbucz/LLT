@@ -1,5 +1,5 @@
 # *LLT* R package
-Linear Law-based Feature Space Transformation
+### for Linear Law-based Feature Space Transformation
 
 <hr>
 
