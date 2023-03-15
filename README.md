@@ -22,7 +22,7 @@ install_github("mtkurbucz/LLT")
 library(LLT)
 ```
 
-## Setting parameters
+### Setting parameters
 ```R
 path <- "./data"
 test_ratio <-  0.30
