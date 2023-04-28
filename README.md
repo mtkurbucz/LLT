@@ -4,7 +4,7 @@
 <hr>
 
 ## Description
-The LLT package implements the Linear Law-based Feature Space Transformation (LLT) algorithm, which aims to facilitate uni- and multivariate time series classification tasks. More information can be found at: Kurbucz, M. T., Pósfay, P., & Jakovác, A. (2023). LLT: An R package for Linear Law-based Feature Space Transformation. <i>arXiv preprint</i> arXiv:2304.14211.
+The LLT package implements the Linear Law-based Feature Space Transformation (LLT) algorithm, which aims to facilitate uni- and multivariate time series classification tasks. A detailed description of the software can be found at: Kurbucz, M. T., Pósfay, P., & Jakovác, A. (2023). LLT: An R package for Linear Law-based Feature Space Transformation. <i>arXiv preprint</i> arXiv:2304.14211.
 
 <hr>
 
