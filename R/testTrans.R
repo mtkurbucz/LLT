@@ -23,7 +23,7 @@ testTrans <- function(path,train_test,train_law,select = "rank",lag = 1){
   dim <- nrow(train_law)
   dict <- list.dirs(path = path,full.names = FALSE)
   dict <- dict[2:length(dict)]
-  id <- vector() ###
+  id <- vector()
 
   for(i in 1:length(dict)){
 
