@@ -24,7 +24,8 @@ testTrans <- function(path,train_test,train_law,select = "rank",lag = 1){
   dict <- list.dirs(path = path,full.names = FALSE)
   dict <- dict[2:length(dict)]
   id <- vector()
-
+  s <- 0
+  
   for(i in 1:length(dict)){
 
     test <- train_test[[2]][[i]]
@@ -75,8 +76,9 @@ testTrans <- function(path,train_test,train_law,select = "rank",lag = 1){
         rm(tmp3)
 
       }
-
-      id[j] <- file
+      
+      s <- s + 1
+      id[s] <- file
 
     }
   }
