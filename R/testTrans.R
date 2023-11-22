@@ -40,7 +40,7 @@ testTrans <- function(path,train_test,train_law,select = "rank",lag = 1){
         cn <- colnames(dt)[k]
         idx <- sub("\\#.*","",colnames(train_law)) == cn
         tmp <- as.matrix(train_law[,idx])
-        emb <- LLT::embed(dt[,k],dim,lag)
+        emb <- LLT::tdembed(dt[,k],dim,lag)
 
         for(l in 1:length(dict)){
 
