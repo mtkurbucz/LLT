@@ -1,5 +1,5 @@
 
-embed <- function(series,dim,lag = 1){
+tdembed <- function(series,dim,lag = 1){
   
   series <- as.data.frame(series)
   len <- nrow(series)
