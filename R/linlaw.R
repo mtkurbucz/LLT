@@ -1,7 +1,7 @@
 
 linlaw <- function(series,dim,lag = 1){
   
-  mtx <- LLT::embed(series,dim,lag)
+  mtx <- LLT::tdembed(series,dim,lag)
   
   ed <- eigen(mtx)
   eve <- ed$vectors
