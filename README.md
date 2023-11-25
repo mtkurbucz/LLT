@@ -38,6 +38,12 @@ result <- LLT::testTrans(path,train_test,train_law)
 
 <hr>
 
+## Test Script
+
+To run the test, download and extract the LLT package, then execute the `test/testLLT.R` script.
+
+<hr>
+
 ## Citation request
 
 Please reference as:
