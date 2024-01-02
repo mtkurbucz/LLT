@@ -48,7 +48,7 @@ To run the test, download and extract the LLT package, then execute the `test/te
 
 Please reference as:
 <ul>
-  <li>Kurbucz, M. T., Pósfay, P., & Jakovác, A. (2023). LLT: An R package for Linear Law-based Feature Space Transformation. <i>arXiv preprint</i> arXiv:2304.14211.
+  <li>Kurbucz, M. T., Pósfay, P., & Jakovác, A. (2024). LLT: An R package for linear law-based feature space transformation. <i>SoftwareX</i>, 25, 101623.
   <li>Kurbucz, M. T., Pósfay, P., & Jakovác, A. (2022). Facilitating time series classification by linear law-based feature space transformation. <i>Scientific Reports</i>, 12(1), 18026.</li>
   <li>Jakovác, A., Kurbucz, M. T., & Pósfay, P. (2022). Reconstruction of observed mechanical motions with artificial intelligence tools. <i>New Journal of Physics</i>, 24(7), 073021.</li>
 </ul>
